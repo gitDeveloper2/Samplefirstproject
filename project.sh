@@ -1,1 +1,1 @@
-echo "This is my first jenkins tutorial. Testing complete"
+echo "This is my first jenkins tutorial. Testing complete, using jenkins"
